@@ -42,7 +42,7 @@ kmeans_algorithm/
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/your-username/kmeans-algorithm.git
+git clone https://github.com/duytanst2004/kmeans-algorithm.git
 cd kmeans-algorithm
 
 # 2. Tạo môi trường ảo (khuyến nghị)
