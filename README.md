@@ -43,7 +43,7 @@ kmeans_visualization_app/
 ```bash
 # 1. Clone repo
 git clone https://github.com/duytanst2004/kmeans-visualization-app.git
-cd kmeans-algorithm
+cd kmeans-visualization-app
 
 # 2. Tạo môi trường ảo (khuyến nghị)
 python -m venv venv
